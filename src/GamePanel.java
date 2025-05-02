@@ -31,7 +31,7 @@ public class GamePanel extends JPanel implements ActionListener {
     int bodyParts = 5;  // the lanth of snake 
     
 //----------------------------------------------------------------//
-    static final int DELAY = 300;  // speed
+    static final int DELAY = 100;  // speed
     
     int applesEaten  ;
     int appleX;
